@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kanwhile)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seedwebs&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanwhile&layout=compact" />
 </div>
 
 <!--
