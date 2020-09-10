@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kanwhile&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanwhile&layout=compact" />
 </div>
