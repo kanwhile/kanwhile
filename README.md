@@ -2,6 +2,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kanwhile)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanwhile&layout=compact" />
+</div>
+
 <!--
 **kanwhile/kanwhile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
